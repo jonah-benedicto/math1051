@@ -62,6 +62,8 @@
 
 9. Solve for $x$: $\frac{x+1}{-2x+1} = \frac{3}{4}$.
 
+10. Solve for $x$: $3+\frac{x}{2}=-5$.
+
 ## Solutions
 
 1. 
@@ -157,6 +159,7 @@
 ```
 
 9.
+
 ```math
 \begin{aligned}
   \frac{x+1}{-2x+1} &= \frac{3}{4} \\
@@ -165,5 +168,15 @@
   10x &= -1 \\
   x &= -0.1 \\
   \therefore{-0.1}
+\end{aligned}
+```
+
+10.
+```math
+\begin{aligned}
+  3+\frac{x}{2} &= -5 \\
+  \frac{x}{2} &= -8 \\
+  x &= -16 \\
+  \therefore{-16}
 \end{aligned}
 ```
