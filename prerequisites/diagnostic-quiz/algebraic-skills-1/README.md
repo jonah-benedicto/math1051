@@ -58,6 +58,8 @@
 (E) $0$ <br>
 (F) None of the above
 
+8. Solve for $x$: $2x-5=5x+4$.
+
 ## Solutions
 
 1. 
@@ -135,5 +137,15 @@
   \frac{4x+12}{x+3} &= \frac{4(x+3)}{x+3} \\
   &= 4 \\
   \therefore{A}
+\end{aligned}
+```
+
+8.
+```math
+\begin{aligned}
+  2x-5 &= 5x+4 \\
+  -9 &= 3x \\
+  -3 &= x \\
+  x &= -3 \\
 \end{aligned}
 ```
