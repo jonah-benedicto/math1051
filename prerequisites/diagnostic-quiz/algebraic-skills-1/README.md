@@ -34,7 +34,7 @@
 (E) $F=32-\frac{9}{5}C$ <br>
 (F) None of the above
 
-5. Simplify $\frac{a}{2} \div \frac{b}{2} \mul \frac{c}{2}$ where $a,b,c \neq 0$. <br>
+5. Simplify $\frac{a}{2} \div \frac{b}{2} \times \frac{c}{2}$ where $a,b,c \neq 0$. <br>
 (A) $\frac{2ac}{4b}$
 (B) $\frac{ac}{2b}$
 (C) $\frac{abc}{8}$
