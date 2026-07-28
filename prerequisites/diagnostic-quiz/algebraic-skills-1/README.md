@@ -11,11 +11,11 @@
 (F) None of the above
 
 2. Simplify $\frac{x^8x^{-2}}{x^{-6}x^2}$. <br>
-(A) $x^2$
-(B) $x^14$
-(C) $x^{-2}$
-(D) $x^{-14}$
-(E) $x^{-10}$
+(A) $x^2$ <br>
+(B) $x^14$ <br>
+(C) $x^{-2}$ <br>
+(D) $x^{-14}$ <br>
+(E) $x^{-10}$ <br>
 (F) None of the above
 
 ## Solutions
