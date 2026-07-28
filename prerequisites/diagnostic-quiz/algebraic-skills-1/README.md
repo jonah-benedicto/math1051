@@ -118,10 +118,10 @@
 
 ```math
 \begin{aligned}
-  \frac{a}{2} \div \frac{b}{2} \times \frac{c}{2} &= \frac{a}{2} \times \frac{2}{b} \times \frac{2}{c} \\
-  &= \frac{4a}{2bc} \\
-  &= \frac{2a}{bc} \\
-  \therefore{E}
+  \frac{a}{2} \div \frac{b}{2} \times \frac{c}{2} &= \frac{a}{2} \times \frac{2}{b} \times \frac{c}{2} \\
+  &= \frac{2ac}{4b} \\
+  &= \frac{ac}{2b} \\
+  \therefore{B}
 \end{aligned}
 ```
 
