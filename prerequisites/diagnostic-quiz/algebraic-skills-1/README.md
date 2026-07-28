@@ -70,3 +70,16 @@
   \therefore{E}
 \end{aligned}
 ```
+
+4. 
+
+```math
+\begin{aligned}
+  C &= \frac{5}{9}(F-32) \\
+  9C &= 5(F-32) \\
+  \frac{9}{5}C &= F-32 \\
+  \frac{9}{5}C + 32 &= F \\
+  F &= \frac{9}{5}C + 32 \\
+  \therefore{C}
+\end{aligned}
+```
