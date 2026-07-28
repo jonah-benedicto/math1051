@@ -10,7 +10,6 @@ Evaluate $\frac{a^3+b^3}{c^2+d^2}$ where $a=2$, $b=-2$, $c=4$, and $d=-2$. <br>
 (F) None of the above
 
 ### Answer
-<div style="display:flex; justify-content:flex-start;">
 ```math
 \begin{aligned}
 \frac{a^3+b^3}{c^2+d^2} &= \frac{2^3 + (-2)^3}{4^2 + (-2)^2} \\
@@ -19,6 +18,5 @@ Evaluate $\frac{a^3+b^3}{c^2+d^2}$ where $a=2$, $b=-2$, $c=4$, and $d=-2$. <br>
 &= 0
 \end{aligned}
 ```
-</div>
 
 Therefore, E.
