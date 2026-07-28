@@ -50,6 +50,14 @@
 (E) $\frac{2}{x} \div \frac{2}{y}=\frac{y}{x}$ <br>
 (F) None of the above
 
+7. Simplify $\frac{4x+12}{x+3}$ where $x \neq -3$. <br>
+(A) $4$ <br>
+(B) $8$ <br>
+(C) $3x+9$ <br>
+(D) $3x+4$ <br>
+(E) $0$ <br>
+(F) None of the above
+
 ## Solutions
 
 1. 
@@ -118,5 +126,14 @@
   \frac{2}{x} \times \frac{y}{2} &= \frac{y}{x} \\
   \frac{y}{x} &= \frac{y}{x} \\
   \therefore{E}
+\end{aligned}
+```
+
+7.
+```math
+\begin{aligned}
+  \frac{4x+12}{x+3} &= \frac{4(x+3)}{x+3} \\
+  &= 4 \\
+  \therefore{A}
 \end{aligned}
 ```
