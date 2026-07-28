@@ -20,6 +20,6 @@
   &= \frac{8 - 8}{16 + 4} \\
   &= \frac{0}{20} \\
   &= 0 \\
-  \therefore{E}.
+  \therefore{E}
 \end{aligned}
 ```
