@@ -147,5 +147,6 @@
   -9 &= 3x \\
   -3 &= x \\
   x &= -3 \\
+  \therefore{-3}
 \end{aligned}
 ```
