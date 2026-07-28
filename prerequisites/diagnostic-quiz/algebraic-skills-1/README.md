@@ -10,13 +10,15 @@ Evaluate $\frac{a^3+b^3}{c^2+d^2}$ where $a=2$, $b=-2$, $c=4$, and $d=-2$. <br>
 (F) None of the above
 
 ### Answer
+<div style="display:flex; justify-content:flex-start;">
 ```math
-\begin{flalign*}
-\frac{a^3+b^3}{c^2+d^2} &= \frac{2^3 + (-2)^3}{4^2 + (-2)^2} &&\\
-&= \frac{8 - 8}{16 + 4} &&\\
-&= \frac{0}{20} &&\\
-&= 0 &&
-\end{flalign*}
+\begin{aligned}
+\frac{a^3+b^3}{c^2+d^2} &= \frac{2^3 + (-2)^3}{4^2 + (-2)^2} \\
+&= \frac{8 - 8}{16 + 4} \\
+&= \frac{0}{20} \\
+&= 0
+\end{aligned}
 ```
+</div>
 
 Therefore, E.
