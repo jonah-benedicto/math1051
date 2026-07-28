@@ -35,11 +35,11 @@
 (F) None of the above
 
 5. Simplify $\frac{a}{2} \div \frac{b}{2} \times \frac{c}{2}$ where $a,b,c \neq 0$. <br>
-(A) $\frac{2ac}{4b}$
-(B) $\frac{ac}{2b}$
-(C) $\frac{abc}{8}$
-(D) $\frac{ac}{6b}$
-(E) $\frac{2a}{bc}$
+(A) $\frac{2ac}{4b}$ <br>
+(B) $\frac{ac}{2b}$ <br>
+(C) $\frac{abc}{8}$ <br>
+(D) $\frac{ac}{6b}$ <br>
+(E) $\frac{2a}{bc}$ <br>
 (F) None of the above
 
 ## Solutions
@@ -89,5 +89,16 @@
   \frac{9}{5}C + 32 &= F \\
   F &= \frac{9}{5}C + 32 \\
   \therefore{C}
+\end{aligned}
+```
+
+5.
+
+```math
+\begin{aligned}
+  \frac{a}{2} \div \frac{b}{2} \times \frac{c}{2} &= \frac{a}{2} \times \frac{2}{b} \times \frac{2}{c} \\
+  &= \frac{4a}{2bc} \\
+  &= \frac{2a}{bc} \\
+  \therefore{E}
 \end{aligned}
 ```
