@@ -43,11 +43,11 @@
 (F) None of the above
 
 6. Find correct equation. <br>
-(A) $\frac{2}{x}+\frac{2}{y}=\frac{4}{x+y}$
-(B) $\frac{2}{x}-\frac{2}{y}=\frac{2}{x-y}$
-(C) $\frac{2}{x} \div \frac{1}{2y} = \frac{y}{x}$
-(D) $\frac{2}{x}-\frac{2}{y}=\frac{0}{x-y}$
-(E) $\frac{2}{x} \div \frac{2}{y}=\frac{y}{x}$
+(A) $\frac{2}{x}+\frac{2}{y}=\frac{4}{x+y}$ <br>
+(B) $\frac{2}{x}-\frac{2}{y}=\frac{2}{x-y}$ <br>
+(C) $\frac{2}{x} \div \frac{1}{2y} = \frac{y}{x}$ <br>
+(D) $\frac{2}{x}-\frac{2}{y}=\frac{0}{x-y}$ <br>
+(E) $\frac{2}{x} \div \frac{2}{y}=\frac{y}{x}$ <br>
 (F) None of the above
 
 ## Solutions
