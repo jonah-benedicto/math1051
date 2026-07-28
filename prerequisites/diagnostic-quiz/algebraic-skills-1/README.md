@@ -10,6 +10,14 @@
 (E) $0$ <br>
 (F) None of the above
 
+2. Simplify $\frac{x^8x^{-2}}{x^{-6}x^2}$. <br>
+(A) $x^2$
+(B) $x^14$
+(C) $x^{-2}$
+(D) $x^{-14}$
+(E) $x^{-10}$
+(F) None of the above
+
 ## Solutions
 
 1. 
@@ -21,5 +29,17 @@
   &= \frac{0}{20} \\
   &= 0 \\
   \therefore{E}
+\end{aligned}
+```
+
+2.
+
+```math
+\begin{aligned}
+  \frac{x^8x^{-2}}{x^{-6}x^2} &= \frac{x^{8-2}}{x^{-6+2}} \\
+  &= \frac{x^6}{x^{-4}}
+  &= x^{6-(-4)}
+  &= x^10
+  \therefore{F}
 \end{aligned}
 ```
