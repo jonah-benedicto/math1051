@@ -60,6 +60,8 @@
 
 8. Solve for $x$: $2x-5=5x+4$.
 
+9. Solve for $x$: $\frac{x+1}{-2x+1} = \frac{3}{4}$.
+
 ## Solutions
 
 1. 
@@ -122,6 +124,7 @@
 ```
 
 6.
+
 ```math
 \begin{aligned}
   \frac{2}{x} \div \frac{2}{y} &= \frac{y}{x} \\
@@ -132,6 +135,7 @@
 ```
 
 7.
+
 ```math
 \begin{aligned}
   \frac{4x+12}{x+3} &= \frac{4(x+3)}{x+3} \\
@@ -141,6 +145,7 @@
 ```
 
 8.
+
 ```math
 \begin{aligned}
   2x-5 &= 5x+4 \\
@@ -148,5 +153,17 @@
   -3 &= x \\
   x &= -3 \\
   \therefore{-3}
+\end{aligned}
+```
+
+9.
+```math
+\begin{aligned}
+  \frac{x+1}{-2x+1} &= \frac{3}{4} \\
+  4(x+1) &= 3(-2x+1) \\
+  4x+4 &= -6x+3 \\
+  10x &= -1 \\
+  x &= -0.1 \\
+  \therefore{-0.1}
 \end{aligned}
 ```
