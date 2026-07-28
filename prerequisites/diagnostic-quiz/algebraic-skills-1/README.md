@@ -110,3 +110,13 @@
   \therefore{E}
 \end{aligned}
 ```
+
+6.
+```math
+\begin{aligned}
+  \frac{2}{x} \div \frac{2}{y} &= \frac{y}{x} \\
+  \frac{2}{x} \times \frac{y}{2} &= \frac{y}{x} \\
+  \frac{y}{x} &= \frac{y}{x} \\
+  \therefore{E}
+\end{aligned}
+```
